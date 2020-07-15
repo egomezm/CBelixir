@@ -30,8 +30,18 @@ Make sure Webpack magic compiles and verify that it bundle the files in the incl
 ColdBox Elixir template
 https://www.forgebox.io/view/cbtemplate-elixir
 
-WebPack for beginers
+Coldbox Elixir Documentation
+https://coldbox-elixir.ortusbooks.com/
+
+WebPack for beginners
 https://www.youtube.com/watch?v=MpGLUVbqoYQ
 
 JS class Import Export:
 https://www.youtube.com/watch?v=ananPWEdfDA
+
+Calling a WebPack + Babel transpiled class from outside its scope.
+https://itnext.io/calling-a-es6-webpacked-class-from-outside-js-scope-f36dc77ea130
+
+USING 3RD PARTY PACKAGES LIKE JQUERY| Webpack 2 Basics Tutorial
+https://www.youtube.com/watch?v=IYuh8hIyvfE
+

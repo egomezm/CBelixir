@@ -1,0 +1,33 @@
+{
+    "name":"cbtemplate-elixir",
+    "version":"1.0.0",
+    "location":"",
+    "author":"You",
+    "slug":"cbtemplate-elixir",
+    "shortDescription":"A ColdBox application template that leverages ColdBox Elixir for assets",
+    "createPackageDirectory":false,
+    "type":"mvc",
+    "keywords":"coldbox,app templates",
+    "homepage":"https://github.com/coldbox-templates/elixir",
+    "documentation":"https://github.com/coldbox-templates/elixir",
+    "repository":{
+        "type":"git",
+        "url":"https://github.com/coldbox-templates/elixir"
+    },
+    "bugs":"https://github.com/coldbox-templates/elixir/issues",
+    "contributors":[],
+    "ignore":[
+        "readme.md"
+    ],
+    "devDependencies":{
+        "testbox":"^3.0.0"
+    },
+    "installPaths":{
+        "coldbox":"coldbox/",
+        "testbox":"testbox/"
+    },
+    "dependencies":{
+        "coldbox":"^5.0.0"
+    },
+    "scripts":{}
+}

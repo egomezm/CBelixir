@@ -9,15 +9,15 @@
 	<!---Base URL --->
 	<base href="#event.getHTMLBaseURL()#" />
 	<!--- CSS --->
-	<link rel="stylesheet" href="#html.elixirPath( "includes/css/mainBundle.css" )#" crossorigin="anonymous">
-	<link rel="stylesheet" href="#html.elixirPath( "includes/css/vendorBundle.css" )#" crossorigin="anonymous">
+	<link rel="stylesheet" href="#html.elixirPath( "css/mainBundle.css" )#" crossorigin="anonymous">
+	<link rel="stylesheet" href="#html.elixirPath( "css/vendorBundle.css" )#" crossorigin="anonymous">
 
 	<!--- JS --->
-	<script src="#html.elixirPath( "includes/js/runtime.js" )#"></script> <!--- First script: Needed for Webpack to do its magic --->
-	<script src="#html.elixirPath( "includes/js/vendor.js" )#"></script> <!--- Second script: Needed for Webpack to use 3rd Party Modules --->
+	<script src="#html.elixirPath( "js/runtime.js" )#"></script> <!--- First script: Needed for Webpack to do its magic --->
+	<script src="#html.elixirPath( "js/vendor.js" )#"></script> <!--- Second script: Needed for Webpack to use 3rd Party Modules --->
 
-	<script src="#html.elixirPath( "includes/js/mainBundle.js" )#"></script>
-	<script src="#html.elixirPath( "includes/js/vendorBundle.js" )#"></script>
+	<script src="#html.elixirPath( "js/mainBundle.js" )#"></script>
+	<script src="#html.elixirPath( "js/vendorBundle.js" )#"></script>
 
 
 

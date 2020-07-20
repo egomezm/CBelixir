@@ -1,4 +1,4 @@
-
+hello guys<br>
 <h2>Custom CSS</h2>
 <p>This is an example of using custom <span class="colorBG">CSS files.</span>  We are using class "colorBG" </p>
 
@@ -61,7 +61,6 @@
 	</table>
 
 
-	<script type="text/javascript" src="includes/js/mainBundle.js" ></script>
 
 <script type="module" >
 		$( document ).ready(function() {
